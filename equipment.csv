@@ -1,0 +1,45 @@
+﻿equipment_ID,equipment_Description,equipment_Category,equipment_Location_Suite
+001,5L Bioreactor,Wave style bioreactor,001
+002,25L Bioreactor,Wave style bioreactor,001
+003,Harvest TFF,Peristaltic Pump Hollow Fiber TFF,001
+004,Chromatography Skid,Pilot Scale Chromatography Skid,001
+005,Chromatography Column 1,Axial Compression Chromatography Column,001
+006,Chromatography Column 2,Axial Compression Chromatography Column,001
+007,Formulation TFF,Peristaltic Pump Hollow Fiber TFF,001
+008,5L Bioreactor,Wave style bioreactor,002
+009,25L Bioreactor,Wave style bioreactor,002
+010,Harvest TFF,Peristaltic Pump Hollow Fiber TFF,002
+011,Chromatography Skid,Pilot Scale Chromatography Skid,002
+012,Chromatography Column 1,Axial Compression Chromatography Column,002
+013,Chromatography Column 2,Axial Compression Chromatography Column,002
+014,Formulation TFF,Peristaltic Pump Hollow Fiber TFF,002
+015,5L Bioreactor,Stirred tank style bioreactor,003
+016,25L Bioreactor,Stirred tank style bioreactor,003
+017,Harvest TFF,Diaphragm Hollow Fiber TFF,003
+018,Chromatography Skid,Pilot Scale Chromatography Skid,003
+019,Chromatography Column 1,Axial Compression Chromatography Column,003
+020,Chromatography Column 2,Axial Compression Chromatography Column,003
+021,Formulation TFF,Diaphragm  Hollow Fiber TFF,003
+022,5L Bioreactor,Stirred tank style bioreactor,004
+023,25L Bioreactor,Stirred tank style bioreactor,004
+024,Harvest TFF,Diaphragm Cassette TFF,004
+025,Chromatography Skid,Pilot Scale Chromatography Skid,004
+026,Chromatography Column 1,Axial Compression Chromatography Column,004
+027,Chromatography Column 2,Axial Compression Chromatography Column,004
+028,Formulation TFF,Diaphragm  Cassette TFF,004
+029,5L Bioreactor,Wave style bioreactor,005
+030,25L Bioreactor,Wave style bioreactor,005
+031,Harvest TFF,Diaphragm Cassette TFF,005
+032,Chromatography Skid,Pilot Scale Chromatography Skid,005
+033,Chromatography Column 1,Axial Compression Chromatography Column,005
+034,Chromatography Column 2,Axial Compression Chromatography Column,005
+035,Formulation TFF,Diaphragm  Cassette TFF,005
+036,5L Bioreactor,Stirred tank style bioreactor,006
+037,25L Bioreactor,Stirred tank style bioreactor,006
+038,Harvest TFF,Diaphragm Cassette TFF,006
+039,Chromatography Skid,Pilot Scale Chromatography Skid,006
+040,Chromatography Column 1,Axial Compression Chromatography Column,006
+041,Chromatography Column 2,Axial Compression Chromatography Column,006
+042,Formulation TFF,Diaphragm  Cassette TFF,006
+43,50L Bioreactor,Stirred tank style bioreactor,002
+44,100L Bioreactor,Stirred tank style bioreactor,002

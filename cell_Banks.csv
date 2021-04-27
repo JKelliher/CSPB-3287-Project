@@ -1,0 +1,6 @@
+﻿cell_Bank_ID,description,parent_Bank_ID
+001,HK-2 Cell Master Cell Bank,
+002,HK-2 Working Cell Bank,001
+003,HK-2 Working Cell Bank 2,001
+004,Modified HK-2 Master Cell Bank,
+005,Modified HK-2 Working Cell Bank,004
